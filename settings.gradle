@@ -3,4 +3,4 @@
  */
 
 rootProject.name = 'BusinessProject'
-include 'acceptance-test', 'webapp'
+include 'acceptance-test'
